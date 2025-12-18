@@ -2,7 +2,11 @@
 
 ### Data Analytics Professional
 
-I am a highly motivated Data Analytics Professional focused on leveraging **SQL, Cloud Data Platforms (Snowflake), and Machine Learning** to drive actionable business insights. My passion lies in transforming raw data into strategic, easy-to-digest visualizations and predictive models.
+Aspiring Data Analyst and MS Data Science student with hands-on experience in Excel, SQL, and dashboard analytics. I enjoy analyzing recruitment and business data to uncover
+insights, improve decision-making, and present findings through clear visualizations.
+
+Currently seeking entry-level Data Analyst opportunities.
+
 
 ##  Featured Projects
 
