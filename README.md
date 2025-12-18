@@ -30,7 +30,7 @@ Explore my work showcasing an end-to-end data science and analysis workflow:
 * **Security & Access:** MFA Reset, Password Management, MIM (Microsoft Identity Manager)
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 I am actively seeking roles where I can apply my analytical skills to solve complex business problems.
 
